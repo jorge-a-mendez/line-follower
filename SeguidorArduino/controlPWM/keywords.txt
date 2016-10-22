@@ -1,0 +1,8 @@
+motorPWM KEYWORD1
+velocidad KEYWORD2
+velocidadActual KEYWORD2
+stall KEYWORD2
+initEntrada KEYWORD2
+sense KEYWORD2
+imLost KEYWORD2
+factorEscala KEYWORD2

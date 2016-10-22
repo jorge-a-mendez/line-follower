@@ -1,0 +1,12 @@
+turnR	KEYWORD2
+turnL	KEYWORD2
+turnMoreR	KEYWORD2;
+turnMoreL	KEYWORD2
+angleR	KEYWORD2
+angleL	KEYWORD2
+keepTrue	KEYWORD2
+imLost	KEYWORD2
+stall	KEYWORD2
+sense	KEYWORD2
+initEntrada	KEYWORD2
+factorEscala	KEYWORD2
